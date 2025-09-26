@@ -1,4 +1,4 @@
-# Report: Setup and Use a Firewall on Linux (UFW)
+# Setup and Use a Firewall on Linux (UFW)
 
 ## Objective
 
@@ -54,6 +54,8 @@ Configure and test basic firewall rules to allow or block traffic.
    ```bash
    sudo ss -tuln
    ```
+
+<img width="719" height="372" alt="Image" src="https://github.com/Gautam-CyberSec/Setup-and-Use-a-Firewall-on-Windows-Linux/blob/main/Screenshots/Screenshot%202025-09-16%20155803.png" />
 
 ## Conclusion
 
